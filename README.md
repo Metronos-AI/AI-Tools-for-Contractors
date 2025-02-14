@@ -1,3 +1,6 @@
+![Profile Picture]( 
+
+![c819fd16-3ac4-4de5-b831-e7770d9116b3](https://github.com/user-attachments/assets/9c027a3e-612e-440c-8723-2c141d8b1e21)
 # AI-Tools-for-Contractors
 A collection of AI tools and projects designed to optimize workflows for Electrical and Mechanical Contractors.
 
